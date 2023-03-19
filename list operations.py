@@ -1,6 +1,6 @@
 l=[20,2.3,"mec"]
 l1=[10,3+2j,[10,20]]
-l2=["sreya","is","my","boo"]
+l2=["my","name","is","nikita"]
 print(l,l1,l2)
 print("list l is ",l)
 print("l[-1] is ",l[-1])
