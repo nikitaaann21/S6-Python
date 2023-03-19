@@ -1,4 +1,4 @@
-remove stop words
+#remove stop words
 swords=["is","was","a","the","as"]
 s=input()
 words=s.split(" ")
