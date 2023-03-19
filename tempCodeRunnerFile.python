@@ -1,6 +1,0 @@
-stud1=(101,"abcd",30)
-stud2=(102,"cya",40)
-L=[stud1,stud2]
-print(L)
-print(stud1.count(101))
-print(stud1.index(30))
